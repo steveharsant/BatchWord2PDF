@@ -31,3 +31,7 @@ In the wild there seems to only be 4 options each with their own problems:
 * Powershell scripts
 
 I wanted a free, open source, end user-friendly, and safe tool to convert multiple PDF's with as little effort as possible, so I created this.
+
+## Screenshot
+
+![Screenshot of the main gui window](https://raw.githubusercontent.com/steveharsant/BatchWord2PDF/main/screenshot.png)
