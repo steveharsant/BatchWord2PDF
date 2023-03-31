@@ -23,12 +23,13 @@ Unfortunately, Microsoft Word is required to be installed, so LibreOffice or oth
 
 ## Why Another Conversion Tool?
 
-In the wild there seems to only be 4 options each with their own problems:
+In the wild, all the options had atleast one of these problems:
 
 * Paid for closed-source software
 * Online conversion tools
 * Super dodgy closed-sourced free software/possible malware
 * Powershell scripts
+* Not super simple to install/download and run
 
 I wanted a free, open source, end user-friendly, and safe tool to convert multiple PDF's with as little effort as possible, so I created this.
 
