@@ -36,3 +36,7 @@ I wanted a free, open source, end user-friendly, and safe tool to convert multip
 ## Screenshot
 
 ![Screenshot of the main gui window](https://raw.githubusercontent.com/steveharsant/BatchWord2PDF/main/screenshot.png)
+
+## Troubleshooting
+
+If the text in a PDF is being converted to an image, see [this issue](https://github.com/steveharsant/BatchWord2PDF/issues/1) on how to resolve it.
